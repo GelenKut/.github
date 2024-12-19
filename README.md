@@ -13,7 +13,7 @@ Welcome to **SmartTask Manager**, an open-source project designed to help develo
 - **Progress Tracking**: Visualize your progress with charts and dashboards.
 - **Cross-Platform**: Accessible on Windows, macOS, and Linux.
 
-===> More information about SmartTask [here]
+===> More information about SmartTask [here](https://betzula.cam/)
 ---
 
 ## Installation
